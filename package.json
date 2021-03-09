@@ -1,0 +1,15 @@
+{
+  "name": "socialapi",
+  "version": "1.0.0",
+  "description": "Backend API made with Node/Express for a social network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Prateek Varma",
+  "license": "ISC"
+}
